@@ -21,8 +21,8 @@ We are required to model the price of houses with the available independent vari
 * 6.Conclusion
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+## Contributor
+Rishikant Goswami
 
 
 <!-- Optional -->
